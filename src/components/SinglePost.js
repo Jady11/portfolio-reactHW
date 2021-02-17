@@ -18,7 +18,6 @@ useEffect(() => {
         title, 
         _id, 
         slug, 
-        image,
         mainImage{
             asset->{
                 _id,
@@ -27,7 +26,7 @@ useEffect(() => {
         },
         body,
         "name": author->name,
-        "author": author->image
+        "authorImage": author->image
     }`).then((data) => setSinglePost(data[0]))
     .catch(console.error);
 }, [slug]);
