@@ -16,7 +16,7 @@ Portfolio with React
     -License
 
 ## Installation
-  
+  Portfolio app created by installing create-react-app through command line. Packages installed for use and creativity: sanity.io, react social icons, & react-router-dom.   
 
 ## Screen Shots
 ![Screen Shot 2021-02-18 at 7 17 13 PM](https://user-images.githubusercontent.com/70386025/108448066-46f55280-721e-11eb-8015-258bbf34fb15.png)
