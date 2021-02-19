@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio-reactHW/static/css/main.c8b9ab92.chunk.css",
+    "main.js": "/portfolio-reactHW/static/js/main.89be4224.chunk.js",
+    "main.js.map": "/portfolio-reactHW/static/js/main.89be4224.chunk.js.map",
+    "runtime-main.js": "/portfolio-reactHW/static/js/runtime-main.108d1d61.js",
+    "runtime-main.js.map": "/portfolio-reactHW/static/js/runtime-main.108d1d61.js.map",
+    "static/js/2.4250d755.chunk.js": "/portfolio-reactHW/static/js/2.4250d755.chunk.js",
+    "static/js/2.4250d755.chunk.js.map": "/portfolio-reactHW/static/js/2.4250d755.chunk.js.map",
+    "static/js/3.161f3df4.chunk.js": "/portfolio-reactHW/static/js/3.161f3df4.chunk.js",
+    "static/js/3.161f3df4.chunk.js.map": "/portfolio-reactHW/static/js/3.161f3df4.chunk.js.map",
+    "index.html": "/portfolio-reactHW/index.html",
+    "static/css/main.c8b9ab92.chunk.css.map": "/portfolio-reactHW/static/css/main.c8b9ab92.chunk.css.map",
+    "static/js/2.4250d755.chunk.js.LICENSE.txt": "/portfolio-reactHW/static/js/2.4250d755.chunk.js.LICENSE.txt",
+    "static/media/Laos.1f296b63.jpeg": "/portfolio-reactHW/static/media/Laos.1f296b63.jpeg",
+    "static/media/wat.3e2ee8a6.jpeg": "/portfolio-reactHW/static/media/wat.3e2ee8a6.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.108d1d61.js",
+    "static/js/2.4250d755.chunk.js",
+    "static/css/main.c8b9ab92.chunk.css",
+    "static/js/main.89be4224.chunk.js"
+  ]
+}
