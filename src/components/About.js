@@ -37,6 +37,7 @@ export default function About() {
                         <div className="prose lg:prose-xl text-white">
                             <BlockContent blocks={author.bio} projectId="uj2q795a" dataset="production"/>
                         </div>
+                        
                     </div>
                 </section>
             </div>

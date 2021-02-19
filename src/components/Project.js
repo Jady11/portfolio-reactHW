@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-// import Project from '../../studio/schemas/project.js';
+
 import sanityClient from '../client.js'
 
 export default function Project() {
