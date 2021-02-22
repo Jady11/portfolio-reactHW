@@ -3,6 +3,7 @@
 Jady Tippetts Portfolio
 
 ![Badge](https://img.shields.io/static/v1?label=License&message=MIT&color=9cf)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/21c0eb3b-d1a1-4753-8dcc-2e31819d03d6/deploy-status)](https://app.netlify.com/sites/nifty-fermat-73f709/deploys)
 
 
 ## User Story

@@ -1,5 +1,5 @@
 import React, { useEffect, useState }from 'react';
-import sanityClient from '../client.js';
+import sanityClient from '../client';
 import wat from '../wat.jpeg';
 import imageUrlBuilder from '@sanity/image-url';
 import BlockContent from '@sanity/block-content-to-react'
