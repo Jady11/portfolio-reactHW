@@ -2,7 +2,7 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { SocialIcon } from 'react-social-icons';
 
-export default function Footer() {
+const Footer = () => {
     return (
         
         <header className="bg-red-600">
@@ -37,3 +37,4 @@ export default function Footer() {
         </header>
         )
     }
+export default Footer;
