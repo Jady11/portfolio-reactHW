@@ -25,6 +25,7 @@ export default function About() {
         return <div>Loading...</div>;
     
 
+
     return (
         <main className="relative">
             <img src={wat}
@@ -56,7 +57,7 @@ export default function About() {
                         </div>
                         <div className="inline-flex py-3 px-3 my-6">
 
-                            <SocialIcon url="https://docs.google.com/document/d/e/2PACX-1vR23bWLnPeU7ucemV148kbJBxAC4W33D_mXXtRQu6Q3tH_wnWtf-RcjppARVtafOg0cxLllMtJy5tIP/pub" className="mr-4" target="_blank" fgColor="#fff" bgColor="black"
+                            <SocialIcon url="https://drive.google.com/file/d/11TomakbNUNkVqg_ao0NAoE_ivL4-sCnj/view?usp=sharing" className="mr-4" target="_blank" fgColor="#fff" bgColor="black"
                                 style={
                                     {
                                         height: 40,
