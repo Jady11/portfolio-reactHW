@@ -30,7 +30,7 @@ const Footer = () => {
                     <SocialIcon url="https://github.com/Jady11" className="mr-4" target="_blank" fgColor="#fff" bgColor="black" style={{ height: 40, width: 40 }} />
                     <SocialIcon url="https://www.facebook.com/jady.tippetts/" className="mr-4" target="_blank" fgColor="#fff" style={{ height: 40, width: 40 }} />
                     <SocialIcon url="https://www.instagram.com/jady11/" className="mr-4" target="_blank" fgColor="#fff" bgColor="black" style={{ height: 40, width: 40 }} />
-                    <SocialIcon url="https://drive.google.com/file/d/1W-UjeH3cHVC77NyF90KbFp2Dcv2XvOlt/view?usp=sharing" className="mr-4" target="_blank" fgColor="#fff" bgColor="black" style={{ height: 40, width: 40 }} />
+                    <SocialIcon url="https://docs.google.com/document/d/e/2PACX-1vR23bWLnPeU7ucemV148kbJBxAC4W33D_mXXtRQu6Q3tH_wnWtf-RcjppARVtafOg0cxLllMtJy5tIP/pub" className="mr-4" target="_blank" fgColor="#fff" bgColor="black" style={{ height: 40, width: 40 }} />
                     
                 </div>
             </div>
