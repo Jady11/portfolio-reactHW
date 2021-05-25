@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 
 export default function NavBar() {
     return (
-        <header className="bg-blue-600">
+        <header className="bg-green-600">
             <div className="container mx-auto flex justify-between">
                 <nav className="flex">
                     <NavLink to="/" exact 
@@ -13,22 +13,22 @@ export default function NavBar() {
                         Jady Tippetts
                     </NavLink>
                     <NavLink to="/post" className="inline-flex items-center py-3 px-3 my-6 rounded text-black-200 hover:text-white-800"
-                    activeClassName="text-blue-100 bg-blue-700"
+                    activeClassName="text-green-100 bg-green-700"
                     >
                         Blog Posts
                     </NavLink>
                     <NavLink to="/project" className="inline-flex items-center py-3 px-3 my-6 rounded text-black-200 hover:text-white-800"
-                    activeClassName="text-blue-100 bg-blue-700"
+                    activeClassName="text-green-100 bg-green-700"
                     >
                         Projects
                     </NavLink>
                     <NavLink to="/about" className="inline-flex items-center py-3 px-3 my-6 rounded text-black-200 hover:text-white-800"
-                    activeClassName="text-blue-100 bg-blue-700"
+                    activeClassName="text-green-100 bg-green-700"
                     >
                         About Me
                     </NavLink>
                     <NavLink to="/contact" className="inline-flex items-center py-3 px-3 my-6 rounded text-black-200 hover:text-white-800"
-                    activeClassName="text-blue-100 bg-blue-700"
+                    activeClassName="text-green-100 bg-green-700"
                     >
                         Contact
                     </NavLink>
