@@ -5,7 +5,7 @@ import { SocialIcon } from 'react-social-icons';
 const Footer = () => {
     return (
         
-        <header className="bg-red-600">
+        <header className="bg-blue-600">
             
             <div className="container mx-auto flex justify-between">
                 <nav className="flex">
