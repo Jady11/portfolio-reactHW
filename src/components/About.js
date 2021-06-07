@@ -27,7 +27,7 @@ export default function About() {
 
 
     return (
-        <main className="relative">
+        <main className="bg-gray-500 min-h-screen p-12">
             {/* <img src={wat}
                 alt="Wat"
                 className="absolute w-full"/> */}
